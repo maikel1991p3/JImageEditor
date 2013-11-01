@@ -15,4 +15,4 @@ Desarrolladores:
    - Tinguaro Cubas Saiz.
    - Rodrigo Colombo Vlaeminch.
    
-Nota: funciona con imágenes .png de 8 bits :)
+Nota: funciona una amplia variedad de imágenes a color. (Las transforma a escala de grises)
