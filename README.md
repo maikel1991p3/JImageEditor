@@ -11,8 +11,11 @@ Liberías: Swing y AWT para gráficos de la GUI.
 
 Desarrolladores:
 
-   - Coordinador del proyecto: Miguel Pérez Bello.
+   - Miguel Pérez Bello.
    - Tinguaro Cubas Saiz.
    - Rodrigo Colombo Vlaeminch.
    
-Nota: funciona una amplia variedad de imágenes a color. (Las transforma a escala de grises)
+Coordinador del proyecto: 
+   - Miguel Pérez Bello.
+   
+Nota: funciona con una amplia variedad de formatos de imágenes a color. (Las transforma a escala de grises).
